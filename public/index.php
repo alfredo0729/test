@@ -6,6 +6,7 @@
 
 		<?php
 			echo "Hello worldddd";
+			echo "updated"
 		?>
 
 	</body>
