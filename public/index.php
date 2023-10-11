@@ -1,5 +1,12 @@
-<?php
+<!DOCTYPE html>
+<html>
+	<body>
 
-phpinfo();
+		<h1>Testing only</h1>
 
-?>
+		<?php
+			echo "Hello world";
+		?>
+
+	</body>
+</html>
